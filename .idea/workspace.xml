@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zIjNfByeXjuHIIiFMI7LTcBBwX" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2402" y="1463" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1633842530227">
+      <screen x="1920" y="-270" width="1440" height="2520" />
+    </state>
+    <state x="2402" y="1463" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.-270.1440.2520@1920.-270.1440.2520" timestamp="1633842530227" />
+    <state x="2427" y="1583" key="FileChooserDialogImpl" timestamp="1633842493878">
+      <screen x="1920" y="-270" width="1440" height="2520" />
+    </state>
+    <state x="2427" y="1583" key="FileChooserDialogImpl/0.0.1920.1040/1920.-270.1440.2520@1920.-270.1440.2520" timestamp="1633842493878" />
+  </component>
+</project>
